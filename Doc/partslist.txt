@@ -1,11 +1,5 @@
 Partlist
 
-Exported from vram_board.brd at 27-May-16 15:27
-
-EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
-
-Assembly variant: 
-
 Part     Value          Package      Library          Position (inch)       Orientation
 
 C1       47uF           E2-5         rcl              (0.5 1.3)             R270
